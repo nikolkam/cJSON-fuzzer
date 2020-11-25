@@ -12,5 +12,5 @@ add_library(cjson STATIC cJSON.c)
 # Create an executable
 ############################################################
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -g -fsanitize=fuzzer,address -Wall -Werror")
-add_executable(fuzz main.c)
-target_link_libraries(fuzz PRIVATE cjson)
+add_executable(fuzzing main.c)
+target_link_libraries(fuzzing PRIVATE cjson)

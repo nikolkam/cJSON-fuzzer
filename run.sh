@@ -4,4 +4,4 @@ cd build
 cmake ..
 make
 
-./fuzz ../input -only_ascii=1 -print_final_stats=1
+./fuzzing ../CORPUS ../inputs -print_final_stats=1 -jobs=8 -workers=8
