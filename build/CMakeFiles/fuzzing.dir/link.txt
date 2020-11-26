@@ -1,0 +1,1 @@
+/usr/bin/clang  -g -fsanitize=fuzzer,address -Wall -Werror   CMakeFiles/fuzzing.dir/main.c.o  -o fuzzing libcjson.a 

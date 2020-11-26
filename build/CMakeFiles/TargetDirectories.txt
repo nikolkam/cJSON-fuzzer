@@ -1,0 +1,4 @@
+/home/nmaeda/sfuhome/CMPT473/exercise4/cJSON-2/cJSON-fuzzer/build/CMakeFiles/rebuild_cache.dir
+/home/nmaeda/sfuhome/CMPT473/exercise4/cJSON-2/cJSON-fuzzer/build/CMakeFiles/edit_cache.dir
+/home/nmaeda/sfuhome/CMPT473/exercise4/cJSON-2/cJSON-fuzzer/build/CMakeFiles/cjson.dir
+/home/nmaeda/sfuhome/CMPT473/exercise4/cJSON-2/cJSON-fuzzer/build/CMakeFiles/fuzzing.dir
